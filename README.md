@@ -16,7 +16,7 @@ Este projeto tem como objetivo realizar uma análise de vulnerabilidades em um a
 
 ## 📄 Relatório
 Acesse o relatório completo:
-[CLIQUE AQUI](COLE_AQUI_SEU_LINK_RAW)
+https://github.com/bancadabd-bot/Projeto-de-Seguran-a-Nmap/blob/main/Analise_vulnerabilidade.pdf
 
 ## 🎯 Objetivo
 Demonstrar na prática conhecimentos em segurança de redes, análise de vulnerabilidades e identificação de riscos.
